@@ -1,36 +1,49 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+## Hi there! 👋
 
-###
+I'm **Ravitharun**, a passionate **Full-Stack Web Developer** with a knack for creating seamless user experiences. Let's build something amazing together!
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## About Me
 
-###
+As a dedicated full-stack developer, I love transforming ideas into reality. Based in an undisclosed location, I'm constantly striving to enhance my skills and contribute to innovative projects. Check out my personal website [here](https://boisterous-lolly-5f33d9.netlify.app/)!
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## Skills & Technologies
 
-###
+html,css,react,nodejs,mongodb,express,redux,docker,git,graphql,bootstrap,figma,githubactions,flask,vue,tailwind,aws,heroku,postgres,java
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## Top Projects
 
-###
+- [**lms-portal-mern**](https://github.com/ravitharun/lms-portal-mern)
+  🎓 A full-stack Learning Management System (LMS) built with the MERN stack, designed for colleges to manage courses, instructors, students, and attendance with role-based access and real-time features.  ⭐ Stars: 0 | 🌐 Language: JavaScript
+
+- [**PROTIFILO_THARUN**](https://github.com/ravitharun/PROTIFILO_THARUN)
+  🌐 A personal portfolio website showcasing skills, projects, and experience. Built with React.js, featuring a clean UI/UX, animations, and a responsive design.  ⭐ Stars: 0 | 🌐 Language: JavaScript
+
+- [**project-manager**](https://github.com/ravitharun/project-manager)
+  📊 A robust web-based platform designed to streamline project management, task tracking, and team collaboration.  ⭐ Stars: 0 | 🌐 Language: JavaScript
+
+- [**react-ecommerce**](https://github.com/ravitharun/react-ecommerce)
+  🛒 An e-commerce platform built with React, providing a seamless shopping experience.  ⭐ Stars: 0 | 🌐 Language: JavaScript
+
+## GitHub Stats
+
+🔹 **Public Repositories:** 21  
+🔹 **Followers:** 7  
+🔹 **Following:** 27  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravitharun&show_icons=true&theme=radical)
+
+## Recent Activity
+
+Here are some of my latest GitHub activities:
+
+- Pushed updates to [N4si](https://github.com/ravitharun/N4si) - Updated README.md
+- Created a new repository: [project-manager](https://github.com/ravitharun/project-manager)
+- Contributed to [PROTIFILO_THARUN](https://github.com/ravitharun/PROTIFILO_THARUN) - Updated README.md
+
+## Latest Blog Posts
+
+Check out my latest blog posts on my personal website! [Blog](https://boisterous-lolly-5f33d9.netlify.app/)
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/ravitharun07/","generic":"https://boisterous-lolly-5f33d9.netlify.app/"}
