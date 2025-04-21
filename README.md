@@ -1,49 +1,16 @@
-## Hi there! 👋
 
-I'm **Ravitharun**, a passionate **Full-Stack Web Developer** with a knack for creating seamless user experiences. Let's build something amazing together!
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=ravitharun&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ravitharun&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravitharun&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## About Me
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-As a dedicated full-stack developer, I love transforming ideas into reality. Based in an undisclosed location, I'm constantly striving to enhance my skills and contribute to innovative projects. Check out my personal website [here](https://boisterous-lolly-5f33d9.netlify.app/)!
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-## Skills & Technologies
-
-html,css,react,nodejs,mongodb,express,redux,docker,git,graphql,bootstrap,figma,githubactions,flask,vue,tailwind,aws,heroku,postgres,java
-
-## Top Projects
-
-- [**lms-portal-mern**](https://github.com/ravitharun/lms-portal-mern)
-  🎓 A full-stack Learning Management System (LMS) built with the MERN stack, designed for colleges to manage courses, instructors, students, and attendance with role-based access and real-time features.  ⭐ Stars: 0 | 🌐 Language: JavaScript
-
-- [**PROTIFILO_THARUN**](https://github.com/ravitharun/PROTIFILO_THARUN)
-  🌐 A personal portfolio website showcasing skills, projects, and experience. Built with React.js, featuring a clean UI/UX, animations, and a responsive design.  ⭐ Stars: 0 | 🌐 Language: JavaScript
-
-- [**project-manager**](https://github.com/ravitharun/project-manager)
-  📊 A robust web-based platform designed to streamline project management, task tracking, and team collaboration.  ⭐ Stars: 0 | 🌐 Language: JavaScript
-
-- [**react-ecommerce**](https://github.com/ravitharun/react-ecommerce)
-  🛒 An e-commerce platform built with React, providing a seamless shopping experience.  ⭐ Stars: 0 | 🌐 Language: JavaScript
-
-## GitHub Stats
-
-🔹 **Public Repositories:** 21  
-🔹 **Followers:** 7  
-🔹 **Following:** 27  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravitharun&show_icons=true&theme=radical)
-
-## Recent Activity
-
-Here are some of my latest GitHub activities:
-
-- Pushed updates to [N4si](https://github.com/ravitharun/N4si) - Updated README.md
-- Created a new repository: [project-manager](https://github.com/ravitharun/project-manager)
-- Contributed to [PROTIFILO_THARUN](https://github.com/ravitharun/PROTIFILO_THARUN) - Updated README.md
-
-## Latest Blog Posts
-
-Check out my latest blog posts on my personal website! [Blog](https://boisterous-lolly-5f33d9.netlify.app/)
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/ravitharun07/","generic":"https://boisterous-lolly-5f33d9.netlify.app/"}
+---
+[![](https://visitcount.itsvg.in/api?id=ravitharun&icon=0&color=0)](https://visitcount.itsvg.in)
